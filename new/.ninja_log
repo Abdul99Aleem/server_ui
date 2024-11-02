@@ -1,0 +1,9 @@
+# ninja log v6
+11	786	7520069462357889	screenlogin_autogen/timestamp	3fab6a92caa0e548
+11	786	7520069462357889	screenlogin_autogen/mocs_compilation.cpp	3fab6a92caa0e548
+11	786	7520069462357889	C:/qtprojects/screenlogin/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/screenlogin_autogen/timestamp	3fab6a92caa0e548
+11	786	7520069462357889	C:/qtprojects/screenlogin/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/screenlogin_autogen/mocs_compilation.cpp	3fab6a92caa0e548
+795	3116	7520069463408241	CMakeFiles/screenlogin.dir/screenlogin_autogen/mocs_compilation.cpp.obj	897b1964c4418b57
+801	3184	7520069463408241	CMakeFiles/screenlogin.dir/main.cpp.obj	ac01d682c07354
+809	3419	7520069463564523	CMakeFiles/screenlogin.dir/mainwindow.cpp.obj	c456c6ddef966996
+3419	3586	7520069489726785	screenlogin.exe	a2e17b342da77aa
